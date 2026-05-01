@@ -1,6 +1,7 @@
 This is a simple image classifier to distinguish the handwritten letters A(a), B(b), and C(c).
 
 Originally done on Kaggle:https://www.kaggle.com/code/sylviali4/train-a-handwritten-abc-classifier 
+
 Need to change the dataset path if you are not running on Kaggle.
 
 The dataset contains handwritten letters A, B, and C, collected manually from my friends to capture different handwriting styles.
